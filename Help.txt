@@ -1,0 +1,28 @@
+
+#-----HELP-----#
+Direction(number from 1 to 4): 1->right; 2->up; 3->left; 4->down;
+
+BASIC CONTROLS
+a+direction --> melee attack (ex:'a1')
+b+direction --> distance attack (ex:'b1')
+g+direction --> pick up item from ground (ex:'g1')
+e --> choose item from bag to equip ('c' for a cancel)
+t --> choose item from bag to throw away ('c' for a cancel)
+cl ,number --> go up/down the stairs under player ('c' for a cancel)
+save ,number(1-5) --> save the game in current slot ('c' for a cancel)
+load ,number(1-5) --> load the game from current slot ('c' for a cancel)
+
+BASIC NAMES
+a,b,c,d...x,y,z --> enemies
+|,/,),] -->items
+:,+,I --> stairs
+. --> floor
+# --> wall
+@ --> player
+
+MAP NAMES
+# --> usual room
+| or - --> corridors
+% --> room with stairs (will show only after usage)
+@ --> player
+#--------------#
